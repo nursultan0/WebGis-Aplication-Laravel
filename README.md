@@ -1,5 +1,4 @@
-## General info
-This project is Geographic information system using Laravel and Google Maps Api
+
 
 ## Image
 
